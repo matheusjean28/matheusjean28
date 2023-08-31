@@ -30,7 +30,7 @@ Você pode me Encontrar por aqui:
 
 
 - LinkedIn: [Matheus Jean](https://www.linkedin.com/in/matheus-jean-devmatth-6b909a1b6/)
-- Site: [matheusjean.dev](https://matheusjean.dev)
+- Site: [devmatth.netlify.app](https://devmatth.netlify.app)
 
 ## Projetos Destacados
 
