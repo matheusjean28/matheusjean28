@@ -36,6 +36,11 @@ Você pode me Encontrar por aqui:
 
 Confira um dos meus projetos recentes:
 
+- **Real-Time Chat:** Um App de Chat em tempo real usando ReactJs e SignalR, conta com autenticação, criação de sala e permissões, também é possivel criar chats privados. Estou adicionando funcionalidades de envio de arquivos para o Chat (.jpeg, .Png, .mp4, etc...). O App Não esta em Deploy até o momento, porem você pode fazer um Clone do projeto e rodar em sua maquina. 
+Conta com autenticação e #JWT, captografia no banco usando #BCrypt
+
+---
+
 - **Gestão Financeira:** Desenvolvimento de uma solução web de gestão financeira, com foco em atender pequenas empresas. Através de uma interface intuitiva e recursos robustos, o projeto visa simplificar o controle e análise de finanças, promovendo o alcance de objetivos e a otimização de recursos.
 
-Vamos nos conectar !
+---
