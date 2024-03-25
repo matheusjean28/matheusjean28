@@ -32,16 +32,17 @@ Você pode me Encontrar por aqui:
 - LinkedIn: [Matheus Jean](https://www.linkedin.com/in/matheus-jean-devmatth-6b909a1b6/)
 - Site: [devmatth.netlify.app](https://devmatth.netlify.app)
 
-## Projetos Destacados
+## Projetos em Destaque
 
-Confira um dos meus projetos recentes:
+Aqui estão alguns dos meus projetos recentes:
 
-- **Real-Time Chat:** Um App de Chat em tempo real usando ReactJs e SignalR, conta com autenticação, criação de sala e permissões, também é possivel criar chats privados. Estou adicionando funcionalidades de envio de arquivos para o Chat (.jpeg, .Png, .mp4, etc...). O App Não esta em Deploy até o momento, porem você pode fazer um Clone do projeto e rodar em sua maquina. 
-Conta com autenticação e #JWT, captografia no banco usando #BCrypt
+- **Real-Time Chat:** Desenvolvi um aplicativo de chat em tempo real utilizando ReactJs e SignalR. O aplicativo oferece recursos de autenticação, criação de salas e gerenciamento de permissões. Além disso, é possível iniciar conversas privadas. Estou atualmente implementando funcionalidades para envio de arquivos no chat, suportando formatos como .jpeg, .png, .mp4, entre outros. Embora ainda não esteja implantado, o projeto está disponível para clonagem e execução local. Utilizei autenticação JWT e criptografia no banco de dados com BCrypt.
 
+- **Mac-Register:** Este é um sistema de controle de MAC e patrimônio projetado para rastrear o histórico de dispositivos e clientes. O sistema permite o upload e leitura de arquivos CSV. Quando um novo arquivo CSV é enviado, um evento HTTP é acionado, verificando a validade e existência dos MACs e realizando o tratamento necessário. As informações são então armazenadas no banco de dados e retornadas ao front-end por meio de um novo evento. O projeto está em pausa temporária devido a prioridades em outros trabalhos, mas planejo adicionar autenticação, melhorias na mensageria com RabbitMQ e, eventualmente, migrar a leitura do CSV para uma biblioteca própria em Rust.
 
 
 - **Gestão Financeira:** Desenvolvimento de uma solução web de gestão financeira, com foco em atender pequenas empresas. Através de uma interface intuitiva e recursos robustos, o projeto visa simplificar o controle e análise de finanças, promovendo o alcance de objetivos e a otimização de recursos.
+  (Sem Continuidade ate o momento)
 
 
 
