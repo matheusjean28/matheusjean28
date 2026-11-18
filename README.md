@@ -1,79 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=Dev_matth&fontSize=70&fontColor=D4AF37&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  <h1>👋 Olá, eu sou o Matheus Jean</h1>
-  <p><em>Desenvolvedor & Criador de Soluções Tech | Free Developer</em></p>
+<img src="assets/banner.svg" width="100%" alt="Matheus Jean - Low-Code & Automation Developer" />
 
-  <!-- Badges de Redes Sociais e Contato -->
-  <a href="https://linkedin.com/in/matheus-jean-devmatth-6b909a1b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://devmatth.netlify.app">
-    <img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://instagram.com/_m4tthh_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/5515997230000?text=Olá%20Matheus,%20vim%20pelo%20GitHub!">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF7F&background=00000000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Low-Code+%26+Automa%C3%A7%C3%A3o;APIs+REST+com+C%23+%2F+.NET;Python+%2B+Google+Sheets+API+%2B+Streamlit;Dashboards%2C+integra%C3%A7%C3%B5es+e+fluxos+automatizados;Dispon%C3%ADvel+para+projetos+freelance" alt="Typing SVG" />
+</a>
 
-<br />
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff7f)](https://www.linkedin.com/in/matheus-jean-6b909a1b6)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-000000?style=for-the-badge&logo=netlify&logoColor=00ff7f)](https://devmatth.netlify.app)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00ff7f)](https://instagram.com/_m4tthh_)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=00ff7f)](https://wa.me/5515997230000?text=Ol%C3%A1%20Matheus,%20vim%20pelo%20GitHub!)
 
-## 🚀 Sobre Mim
+![Visitas](https://komarev.com/ghpvc/?username=matheusjean28&color=00ff7f&style=flat-square&label=VISITAS&labelColor=000000)
 
-- 💻 Atuo como **Free Developer**, desenvolvendo aplicações web, automações e dashboards funcionais.
-- 📍 Baseado no **Brasil**.
-- 🛠️ Sempre aprimorando fluxos com **Python**, automação de dados com **Google Sheets** e desenvolvimento **Front-End**.
-- 🌐 Confira meus projetos publicados no meu [Portfólio Web](https://devmatth.netlify.app).
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### **Linguagens & Front-End**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Produtividade & Automação de Dados**
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjean28&show_icons=true&theme=dark&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9&border_color=30363d" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjean28&layout=compact&theme=dark&bg_color=0d1117&title_color=d4af37&text_color=c9d1d9&border_color=30363d" alt="Linguagens Mais Utilizadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusjean28&theme=dark&background=0d1117&ring=d4af37&fire=d4af37&currStreakNum=d4af37&sidenums=c9d1d9&sidelabels=c9d1d9&dates=8b949e&border=30363d" alt="GitHub Streak" />
 </div>
 
 ---
 
-## ⭐ Projetos em Destaque
+```bash
+root@devmatth:~$ cat about.txt
+```
 
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :---: |
-| **Portfólio Web** | Landing page pessoal para exposição de projetos e contato comercial. | HTML, CSS, JavaScript | [Acessar](https://devmatth.netlify.app) |
-| **Data Cleaning & Automation** | Scripts em Python para tratamento de listas e integração com planilhas. | Python, Google Sheets API | [Ver Repositório](https://github.com/matheusjean28) |
-| **Web Apps & Dashboards** | Interfaces responsivas voltadas para usabilidade e conversão. | HTML5, CSS3, JS | [Ver Repositório](https://github.com/matheusjean28) |
+> **Desenvolvedor Low-Code & Automação** baseado no **Brasil**, open to work (freelance / remoto).
+> Construo **APIs REST em C# / .NET**, **automações em Python**, **integrações com Google Sheets e Drive API**, **dashboards** e aplicações web, transformando processos manuais em fluxos automatizados.
+
+- 🟢 **Foco atual:** automação de processos, integração de sistemas e dashboards de dados
+- 🟢 **Estudando:** React Native / Expo, SignalR em tempo real, mensageria e filas (Hangfire)
+- 🟢 **Procurando:** projetos de automação, APIs, integrações e dashboards
+- 🟢 **Fale comigo:** [LinkedIn](https://www.linkedin.com/in/matheus-jean-6b909a1b6) · [Portfólio](https://devmatth.netlify.app)
+
+---
+
+```bash
+root@devmatth:~$ ls ./stack
+```
+
+<div align="center">
+
+**Back-end & APIs**
+
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=00ff7f)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00ff7f)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff7f)
+![SignalR](https://img.shields.io/badge/SignalR-000000?style=for-the-badge&logo=dotnet&logoColor=00ff7f)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=00ff7f)
+
+**Automação & Dados**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff7f)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00ff7f)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-000000?style=for-the-badge&logo=googlesheets&logoColor=00ff7f)
+![Google Drive](https://img.shields.io/badge/Google_Drive_API-000000?style=for-the-badge&logo=googledrive&logoColor=00ff7f)
+
+**Front-end & Mobile**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff7f)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff7f)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff7f)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff7f)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=00ff7f)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff7f)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff7f)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff7f)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00ff7f)
+
+</div>
+
+---
+
+```bash
+root@devmatth:~$ ./stats --live
+```
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusjean28&show_icons=true&hide_border=false&bg_color=000000&title_color=00ff7f&icon_color=00ff7f&text_color=7CFFB2&border_color=00ff7f" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjean28&layout=compact&bg_color=000000&title_color=00ff7f&text_color=7CFFB2&border_color=00ff7f" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=matheusjean28&background=000000&ring=00ff7f&fire=00ff7f&currStreakNum=00ff7f&sideNums=7CFFB2&currStreakLabel=00ff7f&sideLabels=7CFFB2&dates=5a8f6e&stroke=00ff7f&border=00ff7f" alt="Streak" />
+</div>
+
+---
+
+```bash
+root@devmatth:~$ git log --featured
+```
+
+| Projeto | O que faz | Stack |
+| :-- | :-- | :-- |
+| [**python-sheets-graph**](https://github.com/matheusjean28/python-sheets-graph) | Dashboard em Streamlit que consome Google Sheets e Drive API para exibir dados | `Python` `Streamlit` `Google API` |
+| [**brain-dump-template**](https://github.com/matheusjean28/brain-dump-template) | Template Markdown que salva o contexto de uma IA para outra continuar o trabalho | `Markdown` `AI workflow` |
+| [**singalrchathub**](https://github.com/matheusjean28/singalrchathub) | Chat em tempo real com grupos, moderadores, login com bcrypt + JWT e SQLite | `C#` `SignalR` `JWT` `SQLite` |
+| [**mac_register**](https://github.com/matheusjean28/mac_register) | API para registrar e consultar histórico de MACs e seus status | `C#` `REST API` |
+| [**QueueHangFire**](https://github.com/matheusjean28/QueueHangFire) | Processamento de filas e jobs em segundo plano | `C#` `Hangfire` |
+| [**nutrition-tracking-api**](https://github.com/matheusjean28/nutrition-tracking-api) | API de acompanhamento nutricional | `Python` |
+| [**DOOM-BROWSER-MOBILE-CONTROLLER-WS**](https://github.com/matheusjean28/DOOM-BROWSER-MOBILE-CONTROLLER-WS) | Controle de DOOM no navegador usando o celular via WebSocket | `JavaScript` `WebSocket` |
+
+---
+
+```bash
+root@devmatth:~$ ./contributions --snake
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusjean28/matheusjean28/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusjean28/matheusjean28/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/matheusjean28/matheusjean28/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
 <div align="center">
-  <p><i>"Transformando lógica e código em soluções reais."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=matheusjean28&color=d4af37&style=flat-square&label=Visualizações+do+Perfil" alt="Contador de Visualizações" />
+
+```
+> transformando lógica e código em soluções reais_
+```
+
+<sub>`low-code` · `automação` · `C#` · `.NET` · `Python` · `APIs REST` · `Google Sheets API` · `Streamlit` · `SignalR` · `dashboards` · `integrações` · `desenvolvedor freelancer` · `Brasil`</sub>
+
 </div>
