@@ -1,53 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#03120a"/>
-      <stop offset="1" stop-color="#000000"/>
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <style>
-      .mono { font-family: 'Courier New', Consolas, monospace; }
-      .rain { fill: #00ff7f; opacity: .35; font-size: 16px; }
-      .r1 { animation: fall 6s linear infinite; }
-      .r2 { animation: fall 8s linear infinite -2s; }
-      .r3 { animation: fall 7s linear infinite -4s; }
-      .r4 { animation: fall 9s linear infinite -1s; }
-      @keyframes fall { from { transform: translateY(-120px); } to { transform: translateY(300px); } }
-      .title { fill: #00ff7f; font-size: 54px; font-weight: bold; }
-      .sub { fill: #7CFFB2; font-size: 22px; }
-      .tag { fill: #39ff14; font-size: 16px; opacity: .85; }
-      .cursor { animation: blink 1s steps(1) infinite; }
-      @keyframes blink { 50% { opacity: 0; } }
-      .scan { animation: scan 4s linear infinite; }
-      @keyframes scan { from { transform: translateY(-10px); } to { transform: translateY(270px); } }
-      .type { stroke-dasharray: 700; stroke-dashoffset: 700; animation: reveal 3s steps(30) forwards; }
-      @keyframes reveal { to { stroke-dashoffset: 0; } }
-      .fade1 { opacity: 0; animation: fin 1s 1.2s forwards; }
-      .fade2 { opacity: 0; animation: fin 1s 2s forwards; }
-      @keyframes fin { to { opacity: 1; } }
-    </style>
-  </defs>
-  <rect width="1000" height="260" fill="url(#bg)"/>
-  <rect x="1" y="1" width="998" height="258" fill="none" stroke="#00ff7f" stroke-opacity=".5"/>
-
-  <!-- matrix rain -->
-  <g class="mono rain">
-    <text class="r1" x="40" y="0">1<tspan x="40" dy="18">0</tspan><tspan x="40" dy="18">1</tspan><tspan x="40" dy="18">1</tspan><tspan x="40" dy="18">0</tspan><tspan x="40" dy="18">C#</tspan></text>
-    <text class="r2" x="180" y="0">0<tspan x="180" dy="18">1</tspan><tspan x="180" dy="18">py</tspan><tspan x="180" dy="18">0</tspan><tspan x="180" dy="18">1</tspan></text>
-    <text class="r3" x="760" y="0">1<tspan x="760" dy="18">0</tspan><tspan x="760" dy="18">js</tspan><tspan x="760" dy="18">1</tspan><tspan x="760" dy="18">0</tspan></text>
-    <text class="r4" x="920" y="0">0<tspan x="920" dy="18">1</tspan><tspan x="920" dy="18">API</tspan><tspan x="920" dy="18">1</tspan><tspan x="920" dy="18">0</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Matheus Jean, desenvolvedor full stack e infraestrutura de redes">
+  <style>
+    .m { font-family: Consolas, 'Courier New', monospace; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect width="1000" height="220" rx="10" fill="#0d1117"/>
+  <rect x=".5" y=".5" width="999" height="219" rx="10" fill="none" stroke="#30363d"/>
+  <g stroke="#3fb950" stroke-opacity=".28" fill="none">
+    <path d="M760 55H830L865 90H935M760 165H815L865 115V90M830 55L895 35H945M815 165H935"/>
   </g>
-
-  <!-- scanline -->
-  <rect class="scan" x="0" y="0" width="1000" height="3" fill="#00ff7f" opacity=".15"/>
-
-  <g filter="url(#glow)" class="mono">
-    <text x="60" y="70" class="tag">root@devmatth:~$ whoami</text>
-    <text x="60" y="140" class="title">Matheus Jean<tspan class="cursor">_</tspan></text>
-    <text x="62" y="180" class="sub fade1">Low-Code &amp; Automation Developer</text>
-    <text x="62" y="212" class="tag fade2">C# .NET  |  Python  |  JavaScript  |  APIs REST  |  Google Sheets  |  Dashboards</text>
+  <g fill="#3fb950" fill-opacity=".75">
+    <circle cx="760" cy="55" r="4"/><circle cx="830" cy="55" r="4"/><circle cx="865" cy="90" r="6"/><circle cx="935" cy="90" r="4"/>
+    <circle cx="945" cy="35" r="4"/><circle cx="760" cy="165" r="4"/><circle cx="815" cy="165" r="4"/><circle cx="935" cy="165" r="4"/>
+  </g>
+  <g class="m">
+    <text x="48" y="52" font-size="15" fill="#3fb950">$ whoami</text>
+    <text x="46" y="108" font-size="46" font-weight="bold" fill="#e6edf3">Matheus Jean<tspan class="cursor" fill="#3fb950">_</tspan></text>
+    <text x="48" y="146" font-size="20" fill="#3fb950">Desenvolvedor Full Stack · Redes e Infraestrutura</text>
+    <text x="48" y="182" font-size="15" fill="#8b949e">C# / .NET · React · TypeScript · Python · Cloudflare</text>
   </g>
 </svg>
