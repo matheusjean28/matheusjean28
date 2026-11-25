@@ -22,10 +22,10 @@ Disponível para projetos freelance.
 | Área | Ferramentas |
 | :-- | :-- |
 | **Back-end** | C#, .NET / ASP.NET Core, Entity Framework Core, SignalR, APIs REST, Python (FastAPI), Node.js |
-| **Front-end** | React, JavaScript, TypeScript, HTML, CSS |
+| **Front-end e mobile** | React, React Native (Expo), JavaScript, TypeScript, HTML, CSS |
 | **Dados** | SQLite, Supabase |
 | **Cloud e deploy** | Cloudflare (hospedagem, firewall, DNS), registro de domínios, build para produção, Netlify |
-| **Complementares** | React Native (Expo), Google Sheets API, Hangfire, C++ |
+| **Complementares** | Google Sheets API, Hangfire, C++ |
 
 ## Redes e infraestrutura
 
@@ -36,8 +36,8 @@ Experiência do meu emprego anterior em suporte:
 - **Windows Server:** configuração de máquinas em domínio com Active Directory
 - **CFTV:** instalação e configuração de câmeras
 
-## Atualmente estudando
+## Formação
 
-React Native com Expo ([repositório de estudos](https://github.com/matheusjean28/expo-study)).
+**Análise e Desenvolvimento de Sistemas** na FAIT, em Itapeva (cursando).
 
 <sub>Parte dos meus trabalhos recentes está em repositórios privados.</sub>
